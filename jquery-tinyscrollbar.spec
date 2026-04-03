@@ -2,7 +2,7 @@
 Summary:	Tiny Scrollbar - A lightweight jQuery plugin
 Name:		jquery-%{plugin}
 Version:	1.8
-Release:	1
+Release:	2
 License:	MIT / GPL v2
 Group:		Applications/WWW
 Source0:	http://www.baijs.nl/tinyscrollbar/js/jquery.tinyscrollbar.js
